@@ -37,3 +37,5 @@ Building a news classification system involves several steps, including web scra
 
 8. **Deployment:**
    - Deploy a classification application using Streamlit.
+  
+   - "streamlit run news_classifier.py" use this command in news_classifier.py terminal and to stop use "ctrl + c".
